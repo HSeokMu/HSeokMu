@@ -6,45 +6,56 @@
 * gggg
 
 ## 🛠 Tech Stack
-<p dir="auto">
-  <img src="https://img.shields.io/badge/java-8A2BE2?logo=java"/>
-  <img src="https://img.shields.io/badge/javascript-8A2BE2?logo=javascript"/>
-  <img src="https://img.shields.io/badge/Android-8A2BE2?logo=Android"/>
-  <img src="https://img.shields.io/badge/Python-8A2BE2?logo=Python"/>
-</p>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/Spring-black?logo=spring"/>
-  <img src="https://img.shields.io/badge/Spring Boot-black?logo=springboot"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-black?logo=jpa"/>
-</p>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/AWS-30363d?logo=amazonwebservices"/>
-  <img src="https://img.shields.io/badge/Amazon EC2-30363d?logo=Amazon EC2"/>
-  <img src="https://img.shields.io/badge/Amazon S3-30363d?logo=Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon Route 53-30363d?logo=Amazon Route 53"/>
-  <img src="https://img.shields.io/badge/Amazon ELB-30363d?logo=awselasticloadbalancing"/>
-    <img src="https://img.shields.io/badge/Nginx-30363d?logo=Nginx"/>
-</p>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/Oracle-orange?logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-orange?logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-orange?logo=postgresql&logoColor=white"/>
-</p>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-blue?logo=intellij%20idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-blue?logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-blue?logo=dbeaver&logoColor=white"/>
-</p>
+![Alt text](https://img.shields.io/badge/java-8A2BE2?logo=java)
+![Alt text](https://img.shields.io/badge/javascript-8A2BE2?logo=javascript)
+![Alt text](https://img.shields.io/badge/Android-8A2BE2?logo=Android)
+![Alt text](https://img.shields.io/badge/Python-8A2BE2?logo=Python)
 
-### Statistics
-<div>
-  <img width="45%" height="100%" alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark"/>
-<!--  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=HSeokMu" width="42%" height="100%"/> -->
-  <img width="49%" height="100%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5"/>
-</div>
+![Alt text](https://img.shields.io/badge/Spring-black?logo=spring)
+![Alt text](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot)
+![Alt text](https://img.shields.io/badge/Spring%20Data%20JPA-black?logo=jpa)
+
+![Alt text](https://img.shields.io/badge/AWS-30363d?logo=amazonwebservices)
+![Alt text](https://img.shields.io/badge/Amazon%20EC2-30363d?logo=Amazon%20EC2)
+![Alt text](https://img.shields.io/badge/Amazon%20S3-30363d?logo=Amazon%20S3)
+![Alt text](https://img.shields.io/badge/Amazon%20Route%2053-30363d?logo=Amazon%20Route%2053)
+![Alt text](https://img.shields.io/badge/Amazon%20ELB-30363d?logo=awselasticloadbalancing)
+![Alt text](https://img.shields.io/badge/Nginx-30363d?logo=Nginx)
+
+![Alt text](https://img.shields.io/badge/Oracle-orange?logo=Oracle&logoColor=white)
+![Alt text](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
+![Alt text](https://img.shields.io/badge/MariaDB-orange?logo=MariaDB&logoColor=white)
+![Alt text](https://img.shields.io/badge/PostgreSQL-orange?logo=postgresql&logoColor=white)
+
+![Alt text](https://img.shields.io/badge/Intellij%20IDEA-blue?logo=intellij%20idea&logoColor=white)
+![Alt text](https://img.shields.io/badge/Eclipse-blue?logo=eclipse&logoColor=white)
+![Alt text](https://img.shields.io/badge/DBeaver-blue?logo=dbeaver&logoColor=white)
+
+  
+## 📈 Statistics
+<a href="https://github.com/HSeokMu/github-readme-stats">
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/HSeokMu/convoychat">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5"/>
+</a>
+<!--
+<img width="45%" height="100%" alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark"/>
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=HSeokMu" width="42%" height="100%"/>
+<img width="49%" height="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5"/>
+![Alt text](https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark)
+![Alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5)
+-->
+
+## 📩 Reach Me
+[![My Blog](https://img.shields.io/badge/Naver-green?logo=naver&logoColor=white&style=for-the-badge)](https://blog.naver.com/sukmu3418)
+
+
+
+
 
 <!--
+[![My Blog](https://img.shields.io/badge/Naver-black?logo=naver&logoColor=white&style=for-the-badge)]([https://skillicons.dev](https://blog.naver.com/sukmu3418))
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=oracle,mysql,mariadb,postgresql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea)](https://skillicons.dev)
