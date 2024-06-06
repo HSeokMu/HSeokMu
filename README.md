@@ -39,9 +39,9 @@
 
 ### Statistics
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark" width="46%" height="100%" />
+  <img width="45%" height="100%" alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HSeokMu&show_icons=true&theme=vision-friendly-dark"/>
 <!--  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=HSeokMu" width="42%" height="100%"/> -->
-  <img width="50%" height="100%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5"/>
+  <img width="49%" height="100%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeokMu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=ffffff&size_weight=0.5&count_weight=0.5"/>
 </div>
 
 <!--
